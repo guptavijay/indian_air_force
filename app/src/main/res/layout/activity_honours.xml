@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Honours">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/t11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="10dp"
+        android:text="Indian Air Force Medals and Awards"
+        android:textColor="#0000ff"
+        android:textSize="20dp"
+
+        />
+
+    <TextView
+        android:id="@+id/t22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. PARAM VIR CHAKRA"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="45dp"
+        android:textColor="#0000ff"
+
+        />
+
+    <TextView
+        android:id="@+id/t33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="70dp"
+        android:text="Circular in shape, made of bronze, one and three eighth inches in diameter and on obverse, four replicas of “Indra’s Vajra” with the State Emblem (including the motto), embossed in the centre. On its reverse, it shall have embossed Param Vir Chakra both in Hindi and English with two lotus flowers between Hindi and English.  The fitting will be swivel mounting."
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/t44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. MAHAVIR CHAKRA"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="8dp"
+        android:textColor="#0000ff"
+        />
+</RelativeLayout>
+</ScrollView>
