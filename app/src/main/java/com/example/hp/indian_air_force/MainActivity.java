@@ -53,13 +53,15 @@ public class MainActivity extends AppCompatActivity {
      b4.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View v) {
-
+             Intent i1= new Intent(MainActivity.this,Organisations.class);
+             startActivity(i1);
          }
      });
      b5.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View v) {
-
+             Intent i1= new Intent(MainActivity.this,Services.class);
+             startActivity(i1);
          }
      });
     }
