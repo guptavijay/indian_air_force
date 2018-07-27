@@ -9,13 +9,14 @@
     <TextView
         android:id="@+id/tv11"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="40dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:layout_marginRight="8dp"
         android:text="Indian Air Force Medals and Rewards"
-        android:textColor="#000000"
+        android:textColor="#ffffff"
+        android:background="#000000"
         android:textSize="20dp" />
 
     <Button
@@ -28,17 +29,17 @@
         android:layout_marginTop="255dp" />
     <Button
         android:id="@+id/b22"
-        android:layout_width="25dp"
+        android:layout_width="35dp"
         android:layout_height="50dp"
         android:background="@drawable/next"
         android:layout_marginLeft="335dp"
-        android:layout_marginRight="8dp"
+
 
         android:layout_marginTop="255dp" />
     <ViewFlipper
         android:id="@+id/vf11"
         android:layout_width="310dp"
-        android:layout_height="420dp"
+        android:layout_height="480dp"
         android:layout_marginLeft="35dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="70dp">
@@ -71,18 +72,19 @@
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="PARAM VIR CHAKRA"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
                 android:id="@+id/tv1"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="270dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="10dp"
-                android:text="Circular in shape, made of bronze, one and three eighth inches in diameter and on obverse, four replicas of “Indra’s Vajra” with the State Emblem (including the motto), embossed in the centre. On its reverse, it shall have embossed Param Vir Chakra both in Hindi and English with two lotus flowers between Hindi and English.  The fitting will be swivel mounting."
+
                 android:textColor="#000000" />
         </LinearLayout>
 
@@ -113,21 +115,19 @@
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="MAHAVIR CHAKRA"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t2"
+                android:id="@+id/tv2"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="10dp"
-                android:text="The following categories of personnel shall be eligible for the Chakra :-
 
- * Officers, men and women of all ranks of the Army, the Navy and the Air Force, of any of the Reserve Forces, of the constituted Armed Forces.
- * Matrons, Sisters, Nurses and the staff of the Nursing Services and other Services pertaining to Hospitals and Nursing and Civilians serving regularly or temporarily under the orders of any of the above-mentioned Forces."
                 android:textColor="#000000" />
         </LinearLayout>
 
@@ -157,22 +157,18 @@
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="ASHOKA CHAKRA"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t3"
+                android:id="@+id/tv3"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="15dp"
-                android:text="The following categories of personnel shall be eligible for the Chakra :-
-
- * Officers, men and women of all ranks of the Army, the Navy and the Air Force, of any of the Reserve Forces, of the Territorial Army, Militia and of any other lawfully constituted Armed Forces.
-Members of the Nursing Services of the Armed Forces.
- * Civilian citizens of either sex in all walks of life and members of Police Forces including Central Para-Military Forces and Railway Protection Force."
                 android:textColor="#000000" />
 
 
@@ -204,22 +200,19 @@ Members of the Nursing Services of the Armed Forces.
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="KIRTI CHAKRA"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t4"
+                android:id="@+id/tv4"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="15dp"
-                android:text="The following categories of personnel shall be eligible for the Chakra :-
 
- * Officers, men and women of all ranks of the Army, the Navy and the Air Force, of any of the Reserve Forces, of the Territorial Army, Militia and of any other lawfully constituted Armed Forces.
-Members of the Nursing Services of the Armed Forces.
- * Civilian citizens of either sex in all walks of life and members of Police Forces including Central Para-Military Forces and Railway Protection Force."
                 android:textColor="#000000" />
 
 
@@ -251,21 +244,18 @@ Members of the Nursing Services of the Armed Forces.
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="VIR CHAKRA"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t5"
+                android:id="@+id/tv5"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="15dp"
-                android:text="The following categories of personnel shall be eligible for the Chakra :-
-
- * Officers, men and women of all ranks of the Army, the Navy and the Air Force, of any of the Reserve Forces, of the Territorial Army, Militia and of any other lawfully constituted Armed Forces.
- * Matrons, Sisters, Nurses and the staff of the Nursing Services and other Services pertaining to Hospitals and Nursing and Civilians of either sex serving regularly or temporarily under the orders, directions or supervision of any of the above-mentioned Forces."
                 android:textColor="#000000" />
 
 
@@ -297,22 +287,19 @@ Members of the Nursing Services of the Armed Forces.
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="SHAURYA CHAKRA"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t6"
+                android:id="@+id/tv6"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="15dp"
-                android:text="The following categories of personnel shall be eligible for the Chakra :-
 
- * Officers, men and women of all ranks of the Army, the Navy and the Air Force, of any of the Reserve Forces, of the Territorial Army, Militia and of any other lawfully constituted Forces.
- * Members of the Nursing Services of the Armed Forces.
- * Civilian citizens of either sex in all walks of life and members of Police Forces including Central Para-Military Forces and Railway Protection Force."
                 android:textColor="#000000" />
 
 
@@ -344,21 +331,19 @@ Members of the Nursing Services of the Armed Forces.
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="YUDDH SEVA MEDAL"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t7"
+                android:id="@+id/tv7"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="15dp"
-                android:text="The following categories of personnel shall be eligible for the award of the Medal:-
 
- * All ranks of the Army, the Navy and the Air Force including Territorial Army Units, Auxiliary and Reserve Forces (when embodied) and other lawfully constituted Armed Forces.
- * Nursing officers and other members of the Nursing Services in the Armed Forces."
                 android:textColor="#000000" />
 
 
@@ -390,21 +375,18 @@ Members of the Nursing Services of the Armed Forces.
                 android:layout_marginTop="10dp"
                 android:gravity="center"
                 android:text="VISHISHT SEVA MEDAL"
-                android:textColor="#000000"
+                android:textColor="#ffffff"
+                android:background="#000000"
 
                 android:textSize="20dp" />
 
             <TextView
-                android:id="@+id/t8"
+                android:id="@+id/tv8"
                 android:layout_width="match_parent"
-                android:layout_height="210dp"
+                android:layout_height="260dp"
                 android:layout_marginLeft="8dp"
                 android:layout_marginRight="8dp"
                 android:layout_marginTop="15dp"
-                android:text="The following categories of personnel shall be eligible for the medal :-
-
- * All ranks of the Army, the Navy and the Air Force including Territorial Army Units, Auxiliary and Reserve Forces (when embodied) and other lawfully constituted Armed Forces.
- * Nursing officers and other members of the Nursing Services in the Armed Forces."
                 android:textColor="#000000" />
 
 

@@ -20,7 +20,8 @@
         <activity android:name=".Honours" />
         <activity android:name=".Career" />
         <activity android:name=".Services" />
-        <activity android:name=".about"></activity>
+        <activity android:name=".about" />
+        <activity android:name=".Organisations"></activity>
     </application>
 
 </manifest>

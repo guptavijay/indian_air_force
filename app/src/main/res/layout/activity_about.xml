@@ -9,6 +9,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <ImageView
+        android:id="@+id/iv11"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:layout_marginTop="8dp"
+        android:background="#87cefa"
+        android:src="@drawable/iaflogo" />
 
     <TextView
         android:id="@+id/t11"
@@ -17,7 +24,7 @@
         android:text="Formation Of Indian Air Force"
         android:textColor="#0000ff"
         android:textSize="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="160dp"
         android:layout_marginLeft="8dp"
 
         />
@@ -26,7 +33,7 @@
         android:id="@+id/t22"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="190dp"
         android:textColor="#000000"
         android:layout_marginLeft="8dp"
 
@@ -38,7 +45,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Formation and Early Pilot"
-        android:layout_marginTop="155dp"
+        android:layout_marginTop="305dp"
         android:textColor="#0000ff"
         android:textSize="20dp"
         android:layout_marginLeft="8dp"
@@ -51,7 +58,7 @@
         android:layout_height="wrap_content"
         android:textColor="#000000"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="185dp"
+        android:layout_marginTop="335dp"
         android:text="The Indian Air Force was established in British India as an auxiliary air force of the Royal Air Force with the enactment of the Indian Air Force Act 1932 on 8 October that year and adopted the Royal Air Force uniforms, badges, brevets and insignia. On 1 April 1933, the IAF commissioned its first squadron, No.1 Squadron, with four Westland Wapiti biplanes and five Indian pilots. The Indian pilots were led by RAF Commanding officer Flight Lieutenant (later Air Vice Marshal) Cecil Bouchier." />
 
     <TextView
@@ -59,7 +66,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="350dp"
+        android:layout_marginTop="500dp"
         android:textColor="#0000ff"
         android:textSize="20dp"
         android:text="Motto of Indian Air Force" />
@@ -69,7 +76,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="380dp"
+        android:layout_marginTop="530dp"
         android:textColor="#000000"
         android:text="The Motto of Indian Air Force has been taken from eleventh chapter of the Gita, the Discourse given by Lord Krishna to Arjuna on the battlefield of Kurukshetra during the Great War of Mahabharata. The Lord is showing His Supreme Divine form to Arjuna and the great form of the Lord is reaching the sky with glory, evoking fear and loss of self-control in the mind of Arjuna.The Indian Air Force, similarly, aims to overwhelm the adversaries with application of aerospace power in defence of the nation." />
 </RelativeLayout>
