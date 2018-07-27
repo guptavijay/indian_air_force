@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/r1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Career">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
 
     <TextView
         android:id="@+id/t11"
@@ -30,4 +34,47 @@
         android:layout_marginTop="65dp"
 
         android:gravity="center" />
+
+    <Button
+        android:id="@+id/b11"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="670dp"
+        android:background="#6495ed"
+        android:gravity="center"
+        android:text="OFFICERS"
+        android:textColor="#ffffff"
+
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/b22"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="730dp"
+        android:background="#6495ed"
+        android:gravity="center"
+        android:text="MEDICAL OFFICERS"
+        android:textColor="#ffffff"
+
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/b33"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="790dp"
+        android:background="#6495ed"
+        android:gravity="center"
+        android:text="AIRMEN"
+        android:textColor="#ffffff"
+
+        android:textSize="20dp" />
 </RelativeLayout>
+</ScrollView>
