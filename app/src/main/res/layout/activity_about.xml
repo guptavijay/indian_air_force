@@ -79,5 +79,60 @@
         android:layout_marginTop="530dp"
         android:textColor="#000000"
         android:text="The Motto of Indian Air Force has been taken from eleventh chapter of the Gita, the Discourse given by Lord Krishna to Arjuna on the battlefield of Kurukshetra during the Great War of Mahabharata. The Lord is showing His Supreme Divine form to Arjuna and the great form of the Lord is reaching the sky with glory, evoking fear and loss of self-control in the mind of Arjuna.The Indian Air Force, similarly, aims to overwhelm the adversaries with application of aerospace power in defence of the nation." />
+
+    <TextView
+        android:id="@+id/t77"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HISTORY"
+        android:textSize="20dp"
+        android:textColor="#0000ff"
+        android:layout_marginTop="700dp"
+        />
+
+    <TextView
+        android:id="@+id/t88"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INDIA-PAK WAR(1965)"
+        android:textColor="#0000ff"
+        android:textSize="20dp"
+        android:layout_marginTop="730dp"
+        />
+
+    <ImageView
+        android:id="@+id/iv22"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="760dp"
+        android:src="@drawable/war" />
+    <TextView
+        android:id="@+id/t99"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The 1965 war between India and Pakistan was the second conflict between the two countries over the status of the state of Jammu and Kashmir. The ceasefire alone did not resolve the status of Kashmir, and both sides accepted the Soviet Union as a third-party mediator. Negotiations in Tashkent concluded in January 1966, with both sides giving up territorial claims, withdrawing their armies from the disputed territory.The virtuosity of the Hunters was fully demonstrated, Nos. 7, 20 and 27 Squadrons being employed in counter-air as well as interdiction and close air support missions in the West while Hunters of No. 14 Squadron battled with Sabres of the PAF No. 14 squadron raiding the IAF base at Kalaikunda in the East. "
+        android:layout_marginTop="915dp"
+        />
+
+    <TextView
+        android:id="@+id/t101"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INDEPENDENCE AND PARTITION"
+        android:textSize="20dp"
+        android:layout_marginTop="1150dp"
+        android:textColor="#0000ff"
+        />
+
+
+    <TextView
+        android:id="@+id/t102"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The stimulus provided by the Second World War had raised RIAF personnel strength to 28,500 including some 1,600 officers, by the time hostilities terminated. In August 1945, No. 4 Squadron was designated a component unit of the British Commonwealth Occupation Forces in Japan, exchanging its Spitfire Vllls for Mk XlVs in October and arriving in Japan aboard HMS vengence on 23 April 1946. Meanwhile, from late 1945, theremaining Hurricane-equipped RIAF fighter squadrons converted to the Spitfire at Kohat, Samungli and Risalpur and by mid-1946 the entire RIAF fighter force was Spitfire-equipped. "
+        android:layout_marginTop="1180dp"
+
+        />
+
 </RelativeLayout>
 </ScrollView>
