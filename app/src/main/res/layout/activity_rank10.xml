@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank10">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="Flying Officer"
+        android:gravity="center"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:text="Flying officer (Fg Off in the RAF and IAF; FLGOFF in the RAAF; FGOFF in the RNZAF; formerly F/O in all services and still frequently in the RAF) is a junior commissioned rank in the Royal Air Force and the air forces of many countries which have historical British influence. It is also sometimes used as the English translation of an equivalent rank in countries which have a non-English air force-specific rank structure. In these cases a Flying Officer usually ranks above pilot officer and immediately below flight lieutenant.
+
+It has a NATO ranking code of OF-1 and is equivalent to a lieutenant in the British Army or the Royal Marines. However, it is superior to the nearest equivalent rank of sub-lieutenant in the Royal Navy.
+
+The equivalent rank in the Women's Auxiliary Air Force was section officer."
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="330dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="Usage in the RAF"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="360dp"
+        android:text="The rank title does not imply that an officer in the rank of flying officer flies an aircraft. Some flying officers are aircrew, but many are ground branch officers. Amongst the ground branches some flying officers have command of flights.
+
+In the RAF, aircrew and engineer officers are commissioned directly into the rank of flying officer, while ground branches are commissioned as pilot officers for an initial period of six months. Time served in the rank of flying officer varies depending on branch before automatic promotion to flight lieutenant; aircrew and BEng qualified officers will serve for a period of 2½ years, MEng qualified engineers for 1½ years, and all other ground branches for 3½ years. A graduate entrant who has an MEng but is joining a ground branch other than engineer will serve 3½ years as a flying officer – the early promotion for MEng engineers is designed as a recruitment incentive. The starting salary for a flying officer is £30,616.80 per year.
+
+In many cases the rank of flying officer is the first rank an air force officer holds after successful completion of his professional training. A flying officer might serve as a pilot in training, an adjutant, a security officer or an administrative officer and is typically given charge of personnel and/or resources. By the time aviators have completed their training, they will have served their 2½ years and typically join their frontline squadrons as flight lieutenants."
+        />
+</RelativeLayout>
+</ScrollView>

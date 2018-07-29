@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank9">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/t11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Flight Lieutenant"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="40dp"
+            android:text="
+A flight lieutenant's sleeve/shoulder insignia
+Flight Lieutenant (Flt Lt in the RAF and IAF; FLTLT in the RAAF and RNZAF—formerly sometimes F/L in all services) is a junior commissioned air force rank that originated in the Royal Naval Air Service and is still used in the Royal Air Force[1] and many other countries, especially in the Commonwealth. It is also sometimes used as the English translation of an equivalent rank in non-English-speaking countries, especially those with an air force-specific rank structure.
+
+Flight lieutenant ranks above flying officer and below squadron leader. The name of the rank is the complete phrase; it is never shortened to lieutenant.
+
+It has a NATO ranking code of OF-2, and is equivalent to a lieutenant in the Royal Navy and a captain in the British Army and the Royal Marines. The equivalent rank in the Women's Auxiliary Air Force (WAAF), Women's Royal Air Force (WRAF) (until 1968) and Princess Mary's Royal Air Force Nursing Service (PMRAFNS) (until 1980) was flight officer." />
+
+        <TextView
+            android:id="@+id/t33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:textSize="20dp"
+android:text="Usage in the RAF"
+            android:layout_marginTop="430dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="460dp"
+            android:text="Although in the early years of the RAF a flight lieutenant commanded an aircraft flight, with the increasing combat power of aircraft and therefore squadrons, command and control has shifted up the rank structure (currently, for instance, most squadron commanders in the RAF are Wing Commanders, a reflection on the comparative combat power between the modern air force and its precedent).
+
+The RAF's promotion system is automatic up until Flight Lieutenant, on the Initial Commission of 12 years service. Every officer will attain the rank provided they complete their professional training and do not leave early. For Aircrew, Flight Lieutenant is reached 2.5 years after commissioning, BEng/MEng qualified engineers 2.5 and 1.5 years respectively, and for all ground branch officers, 3.5 years. " />
+    </RelativeLayout>
+</ScrollView>

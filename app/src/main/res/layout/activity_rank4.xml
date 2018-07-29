@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank4">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/t11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:text="Air Vice Marshal"
+        android:textSize="20dp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="40dp"
+        android:text="Air vice-marshal (abbreviated as AVM) is a two-star air officer rank which originated in and continues to be used by the Royal Air Force. The rank is also used by the air forces of many countries which have historical British influence and it is sometimes used as the English translation of an equivalent rank in countries which have a non-English air force-specific rank structure. Air vice-marshals may be addressed generically as air marshal.
+
+Air vice-marshal is a two-star rank and has a NATO ranking code of OF-7. It is equivalent to a rear-admiral in the Royal Navy or a major-general in the British Army or the Royal Marines. In other NATO forces, such as the United States Armed Forces and the Canadian Armed Forces, the equivalent two-star rank is major general.
+
+The rank of air vice-marshal is immediately senior to the rank air commodore and immediately subordinate to the rank of air marshal. " />
+
+    <TextView
+        android:id="@+id/t33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="360dp"
+        android:text="Origins"
+        android:textSize="20dp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t44"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="On 1 April 1918, the newly created RAF adopted its officer rank titles from the British Army, with officers at what is now air vice-marshal level holding the rank of major-general. In response to the proposal that the RAF should use its own rank titles, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became air vice-marshal would have been air rear-admiral.However, air vice-marshal was preferred and was adopted on 1 August 1919."
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="390dp"
+        />
+</RelativeLayout>
+</ScrollView>

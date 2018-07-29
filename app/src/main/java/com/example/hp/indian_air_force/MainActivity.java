@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
  TextView t1;
- Button b1,b2,b3,b4,b5,b6;
+ Button b1,b2,b3,b4,b5,b6,b7;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,10 +21,11 @@ public class MainActivity extends AppCompatActivity {
         b4=(Button)findViewById(R.id.b44);
         b5=(Button)findViewById(R.id.b55);
         b6=(Button)findViewById(R.id.b66);
+        b7=(Button)findViewById(R.id.b77);
      b1.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View v) {
-             Intent i= new Intent(MainActivity.this,History.class);
+             Intent i= new Intent(MainActivity.this,ranks.class);
              startActivity(i);
 
          }
@@ -46,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
      b3.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View v) {
-             Intent i3= new Intent(MainActivity.this,Career.class);
+             Intent i3= new Intent(MainActivity.this,Armours.class);
              startActivity(i3);
          }
      });
@@ -61,6 +62,13 @@ public class MainActivity extends AppCompatActivity {
          @Override
          public void onClick(View v) {
              Intent i1= new Intent(MainActivity.this,Services.class);
+             startActivity(i1);
+         }
+     });
+     b7.setOnClickListener(new View.OnClickListener() {
+         @Override
+         public void onClick(View v) {
+             Intent i1= new Intent(MainActivity.this,Career.class);
              startActivity(i1);
          }
      });

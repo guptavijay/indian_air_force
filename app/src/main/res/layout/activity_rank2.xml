@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank2">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/t11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Air Chief Marshal"
+        android:textSize="20dp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="40dp"
+
+        android:text="Air chief marshal (Air Chf Mshl or ACM) is a four-star air officer rank which originated in and continues to be used by the Royal Air Force, where it is the most senior peacetime air force rank. The rank is also used by the air forces of many countries that have historical British influence and it is sometimes used as the English translation of an equivalent rank in countries which have a non-English air force-specific rank structure.
+
+Air chief marshal is a four-star air officer rank and has a NATO ranking code of OF-9. An air chief marshal is equivalent to an admiral in the Royal Navy or a General in the British Army or the Royal Marines. In other forces, such as the United States Armed Forces and the Canadian Armed Forces, the equivalent four-star rank is General.
+
+The rank of air chief marshal is immediately senior to the rank of air marshal but subordinate to marshal of the air force. Air chief marshals are sometimes generically considered to be air marshals." />
+
+    <TextView
+        android:id="@+id/t33"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Origin"
+        android:layout_marginTop="380dp"
+        android:layout_marginLeft="8dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginRight="8dp"
+        />
+
+    <TextView
+        android:id="@+id/t44"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prior to the adoption of RAF-specific rank titles in 1919, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became air chief marshal would have been air admiral. The Admiralty objected to any use of their rank titles, including this modified form, and so an alternative proposal was put forward: air-officer ranks would be based on the term ardian, which was derived from a combination of the Gaelic words for chief (ard) and bird (eun), with the unmodified word ardian being used specifically for the equivalent to full admiral and general. However, air chief marshal was preferred and was adopted on 1 August 1919. The rank was first used on 1 April 1922 with the promotion of Sir Hugh Trenchard.[5] With Trenchard's promotion to marshal of the RAF on 1 January 1927, no officer held the rank until Sir John Salmond was promoted on 1 January 1929. It has been used continuously ever since."
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginBottom="10dp"
+        />
+
+
+</RelativeLayout>
+</ScrollView>

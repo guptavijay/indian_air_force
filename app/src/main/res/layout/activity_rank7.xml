@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank7">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/t11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:text="Wing Commander"
+            android:textSize="20dp"
+android:gravity="center"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="40dp"
+
+            android:text="Wing commander (Wg Cdr in the RAF, the IAF, and the PAF, WGCDR in the RNZAF and RAAF, formerly sometimes W/C in all services) is a senior commissioned rank in the Royal Air Force and the air forces of many countries which have historical British influence, including many Commonwealth countries but not including Canada and South Africa. It is sometimes used as the English translation of an equivalent rank in countries which have a non-English air force-specific rank structure. It ranks immediately above squadron leader and immediately below group captain. It has a NATO ranking code of OF-4, and is equivalent to a commander in the Royal Navy and a lieutenant colonel in the British Army, Royal Marines and the US Army and United States US Marine Corps." />
+
+        <TextView
+            android:id="@+id/t33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:text="Origins"
+            android:textSize="20dp"
+android:layout_marginTop="280dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="310dp"
+            android:text="On 1 April 1918, the newly created RAF adopted its officer rank titles from the British Army, with Royal Naval Air Service commanders (titled as wing commanders) and Royal Flying Corps lieutenant colonels becoming lieutenant colonels in the RAF. In response to the proposal that the RAF should use its own rank titles, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became wing commander would have been air commander.
+
+Although the Admiralty objected to this simple modification of their rank titles, it was agreed that the RAF might base many of its officer rank titles on naval officer ranks with differing pre-modifying terms. It was also suggested that RAF lieutenant colonels might be entitled reeves or wing-leaders. However, the rank title wing commander was chosen as wings were typically commanded by RAF lieutenant colonels and the term wing commander had been used in the Royal Naval Air Service. The rank of wing commander has been used continuously since 1 August 1919." />
+    </RelativeLayout>
+
+</ScrollView>

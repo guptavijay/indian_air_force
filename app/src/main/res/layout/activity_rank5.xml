@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank5">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/t11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Air Commodore"
+        android:textSize="20dp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="40dp"
+        android:text="Air commodore (abbreviated as Air Cdre in the RAF, IAF and PAF; AIRCDRE in the RNZAF and RAAF) is a one-star rank and the most junior general rank of the air-officer which originated in and continues to be used by the Royal Air Force. The rank is also used by the air forces of many countries which have historical British influence such as Bangladesh, and it is sometimes used as the English translation of an equivalent rank in countries which have a non-English air force-specific rank structure. The name of the rank is always the full phrase and is never shortened to Commodore, which is a rank in various naval forces.
+
+Air commodore is a one-star rank and the most junior air officer rank, being immediately senior to group captain and immediately subordinate to air vice-marshal. It has a NATO ranking code of OF-6 and is equivalent to a commodore in the Royal Navy or a brigadier in the British Army or the Royal Marines. Unlike these two ranks, however, it has always been a substantive rank. Additionally, air commodores have always been considered to be air officers whilst Royal Navy commodores have not since the Napoleonic Wars been classified as officers of flag rank" />
+
+    <TextView
+        android:id="@+id/t33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="410dp"
+        android:text="Royal Air Force use and history"
+        android:textSize="20dp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/t44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="In the present-day RAF, air commodores typically hold senior appointments within groups, acting directly in support of the air officer commanding. However, during the inter-war period, and in the case of the contemporary No. 83 Expeditionary Air Group, the air officer commanding held or holds air commodore rank. In the Air Training Corps, an appointed air commodore holds ultimate authority over the cadet organisation as the Commandant Air Cadets."
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="440dp"
+        android:layout_marginBottom="10dp"
+
+        />
+</RelativeLayout>
+</ScrollView>

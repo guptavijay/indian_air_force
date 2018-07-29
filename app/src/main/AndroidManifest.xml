@@ -21,7 +21,20 @@
         <activity android:name=".Career" />
         <activity android:name=".Services" />
         <activity android:name=".about" />
-        <activity android:name=".Organisations"></activity>
+        <activity android:name=".Organisations" />
+        <activity android:name=".Armours" />
+        <activity android:name=".ranks" />
+        <activity android:name=".rank1" />
+        <activity android:name=".rank2" />
+        <activity android:name=".rank3" />
+        <activity android:name=".rank4" />
+        <activity android:name=".rank5" />
+        <activity android:name=".rank6" />
+        <activity android:name=".rank7" />
+        <activity android:name=".rank8" />
+        <activity android:name=".rank9" />
+        <activity android:name=".rank10" />
+        <activity android:name=".martyrs"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sv"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank1">
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/t11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Marshal of the Air Force"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            />
+
+        <TextView
+            android:id="@+id/t22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="40dp"
+            android:text="Marshal of the air force is the English term for the most senior rank in a number of air forces. The ranks described by this term can properly be considered marshal ranks.
+
+No air force in an English-speaking country formally uses the exact title marshal of the air force, although it is sometimes used as a shortened form of the full title. In several Commonwealth air forces and many Middle Eastern air forces the most senior rank is named marshal of the, followed by the name of the air force (e.g. marshal of the Royal Australian Air Force)." />
+
+        <TextView
+            android:id="@+id/t33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Seniority"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginTop="230dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+
+            />
+
+        <TextView
+            android:id="@+id/t44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="260dp"
+
+            android:text="Marshals of the air force can be properly considered marshals and such ranks are equivalent to the army rank of field marshal and the navy rank of admiral of the fleet. Marshal of the air force is a five-star rank and in NATO countries it is described by the ranking code of OF-10. As such a senior rank, it is very seldom held. It is awarded either in a ceremonial capacity to heads of state or members of royal families, or to the most senior officers in large air forces." />
+    </RelativeLayout>
+
+</ScrollView>

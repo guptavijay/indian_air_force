@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rank3">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/t11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:text="Air Marshal"
+            android:textSize="20dp"
+            android:gravity="center"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="40dp"
+            android:text="Air marshal (Air Mshl or AM) is a three-star air-officer rank which originated in and continues to be used by the Royal Air Force.The rank is also used by the air forces of many countries which have historical British influence and it is sometimes used as the English translation of an equivalent rank in countries which have a non-English air force-specific rank structure.
+
+Air marshal is a three-star rank and has a NATO ranking code of OF-8, equivalent to a vice-admiral in the Royal Navy or a lieutenant-general in the British Army or the Royal Marines. In other NATO forces, such as the United States Armed Forces and the Canadian Armed Forces, the equivalent three-star rank is lieutenant general.
+
+The rank of air marshal is immediately senior to the rank of air vice-marshal and immediately subordinate to the rank of air chief marshal.
+
+Officers in the rank of air marshal typically hold very senior appointments such as commander-in-chief of an air force or a large air force formation. Officers in the ranks of air chief marshal and air vice-marshal are also referred to generically as air marshals. Occasionally, air force officers of marshal rank are considered to be air marshals." />
+
+        <TextView
+            android:id="@+id/t33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="465dp"
+            android:text="Origins"
+            android:textSize="20dp"
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prior to the adoption of RAF-specific rank titles in 1919, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became air marshal would have been air vice-admiral. The Admiralty objected to any use of their rank titles, including this modified form, and so an alternative proposal was put forward: air-officer ranks would be based on the term ardian, which was derived from a combination of the Gaelic words for chief (ard) and bird (eun), with the term second ardian or wing ardian being used specifically for the rank equivalent to a vice-admiral and lieutenant-general. However, air marshal was preferred and was adopted on 1 August 1919. The rank of air marshal was first used on 11 August 1919 when Sir Hugh Trenchard was promoted to the rank and it has been used ever since."
+            android:layout_marginTop="495dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            />
+    </RelativeLayout>
+</ScrollView>
