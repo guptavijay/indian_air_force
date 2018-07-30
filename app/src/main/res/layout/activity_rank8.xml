@@ -17,6 +17,7 @@
         android:layout_marginRight="8dp"
         android:layout_marginTop="10dp"
         android:gravity="center"
+        android:textColor="#4169e1"
         android:text="Squadron Leader"
         android:textSize="20dp"
 
@@ -40,9 +41,10 @@ An air force squadron leader ranks above flight lieutenant and immediately below
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
-android:layout_marginTop="430dp"
+android:layout_marginTop="400dp"
         android:text="RAF usage"
         android:textSize="20dp"
+        android:textColor="#4169e1"
         android:textStyle="bold"
         android:layout_marginRight="8dp" />
 
@@ -53,7 +55,7 @@ android:layout_marginTop="430dp"
         android:layout_marginBottom="10dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:layout_marginTop="460dp"
+        android:layout_marginTop="430dp"
         android:text="From 1 April 1918 to 31 July 1919, the RAF used major as the equivalent rank to squadron leader. Royal Naval Air Service lieutenant-commanders and Royal Flying Corps majors on 31 March 1918 became RAF majors on 1 April 1918. On 31 August 1919, the RAF rank of major was superseded by squadron leader which has remained in continuous usage ever since. Promotion to Squadron Leader is strictly on merit, and requires the individual to be appointed to a Career Commission, which will see them remain in the RAF until retirement or voluntary resignation.
 
 Before the Second World War, a squadron leader commanded a squadron of aircraft. Today, however, a flying squadron is usually commanded by a wing commander, with each of the two flights under a squadron leader. However, ground-operating squadrons which are sub-divisions of a wing are ordinarily commanded by a squadron leader. This includes squadrons of the RAF Regiment and University Air Squadrons." />

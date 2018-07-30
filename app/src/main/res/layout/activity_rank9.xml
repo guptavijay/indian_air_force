@@ -18,6 +18,7 @@
             android:layout_marginRight="8dp"
             android:layout_marginTop="10dp"
             android:gravity="center"
+            android:textColor="#4169e1"
             android:text="Flight Lieutenant"
             android:textSize="20dp"
 
@@ -46,7 +47,8 @@ It has a NATO ranking code of OF-2, and is equivalent to a lieutenant in the Roy
             android:layout_marginRight="8dp"
             android:textSize="20dp"
 android:text="Usage in the RAF"
-            android:layout_marginTop="430dp"
+            android:textColor="#4169e1"
+            android:layout_marginTop="370dp"
             android:textStyle="bold" />
 
         <TextView
@@ -56,7 +58,7 @@ android:text="Usage in the RAF"
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:layout_marginTop="460dp"
+            android:layout_marginTop="400dp"
             android:text="Although in the early years of the RAF a flight lieutenant commanded an aircraft flight, with the increasing combat power of aircraft and therefore squadrons, command and control has shifted up the rank structure (currently, for instance, most squadron commanders in the RAF are Wing Commanders, a reflection on the comparative combat power between the modern air force and its precedent).
 
 The RAF's promotion system is automatic up until Flight Lieutenant, on the Initial Commission of 12 years service. Every officer will attain the rank provided they complete their professional training and do not leave early. For Aircrew, Flight Lieutenant is reached 2.5 years after commissioning, BEng/MEng qualified engineers 2.5 and 1.5 years respectively, and for all ground branch officers, 3.5 years. " />

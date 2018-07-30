@@ -18,9 +18,11 @@
             android:layout_marginRight="8dp"
             android:layout_marginTop="10dp"
             android:gravity="center"
-            android:text="Legends of Air Force"
+            android:text="LEGENDS OF AIR FORCE"
             android:textSize="20dp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:textColor="#4961e1"
+            />
 
         <TextView
             android:id="@+id/t22"
@@ -32,7 +34,7 @@
             android:text="* AM SUBROTO MUKERJEE"
             android:textSize="20dp"
 
-            android:textStyle="bold" />
+            android:textColor="#4169e1" />
 
         <ImageView
             android:id="@+id/iv1"
@@ -69,7 +71,7 @@
             android:layout_marginLeft="80dp"
             android:layout_marginRight="8dp"
             android:layout_marginTop="650dp"
-            android:textColor="#4961e1"
+            android:textColor="#228b22"
             android:text="http://indianairforce.nic.in/content/am-subroto-mukerjee" />
 
 
@@ -83,7 +85,7 @@
             android:text="* AIR CHIEF MARSHAL PC LAL"
             android:textSize="20dp"
 
-            android:textStyle="bold" />
+            android:textColor="#4169e1" />
 
         <ImageView
             android:id="@+id/iv2"
@@ -121,7 +123,7 @@
             android:layout_marginRight="8dp"
             android:layout_marginTop="1150dp"
             android:text="http://indianairforce.nic.in/content/air-chief-marshal-pc-lal"
-            android:textColor="#4961e1" />
+            android:textColor="#228b22" />
 
 
         <TextView
@@ -134,7 +136,7 @@
             android:text="* AIR CMDE MEHAR SINGH"
             android:textSize="20dp"
 
-            android:textStyle="bold" />
+            android:textColor="#4169e1" />
 
         <ImageView
             android:id="@+id/iv3"
@@ -172,7 +174,7 @@
             android:layout_marginRight="8dp"
             android:layout_marginTop="1700dp"
             android:text="http://indianairforce.nic.in/content/air-cmde-mehar-singh"
-            android:textColor="#4961e1" />
+            android:textColor="#228b22" />
 
 
         <TextView
@@ -185,7 +187,7 @@
             android:text="* AIR CMDE MEHAR SINGH"
             android:textSize="20dp"
 
-            android:textStyle="bold" />
+            android:textColor="#4169e1" />
 
         <ImageView
             android:id="@+id/iv4"
@@ -225,7 +227,7 @@
             android:layout_marginTop="2180dp"
             android:layout_marginBottom="10dp"
             android:text="http://indianairforce.nic.in/content/avm-harjinder-singh"
-            android:textColor="#4961e1" />
+            android:textColor="#228b22" />
 
     </RelativeLayout>
 </ScrollView>

@@ -21,6 +21,7 @@
             android:text="Wing Commander"
             android:textSize="20dp"
 android:gravity="center"
+            android:textColor="#4169e1"
             android:textStyle="bold" />
 
         <TextView
@@ -40,8 +41,9 @@ android:gravity="center"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:text="Origins"
+            android:textColor="#4169e1"
             android:textSize="20dp"
-android:layout_marginTop="280dp"
+android:layout_marginTop="300dp"
             android:textStyle="bold" />
 
         <TextView
@@ -50,7 +52,7 @@ android:layout_marginTop="280dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:layout_marginTop="310dp"
+            android:layout_marginTop="330dp"
             android:text="On 1 April 1918, the newly created RAF adopted its officer rank titles from the British Army, with Royal Naval Air Service commanders (titled as wing commanders) and Royal Flying Corps lieutenant colonels becoming lieutenant colonels in the RAF. In response to the proposal that the RAF should use its own rank titles, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became wing commander would have been air commander.
 
 Although the Admiralty objected to this simple modification of their rank titles, it was agreed that the RAF might base many of its officer rank titles on naval officer ranks with differing pre-modifying terms. It was also suggested that RAF lieutenant colonels might be entitled reeves or wing-leaders. However, the rank title wing commander was chosen as wings were typically commanded by RAF lieutenant colonels and the term wing commander had been used in the Royal Naval Air Service. The rank of wing commander has been used continuously since 1 August 1919." />

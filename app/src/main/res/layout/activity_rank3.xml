@@ -20,6 +20,7 @@
             android:text="Air Marshal"
             android:textSize="20dp"
             android:gravity="center"
+            android:textColor="#4169e1"
 
             android:textStyle="bold" />
 
@@ -44,10 +45,10 @@ Officers in the rank of air marshal typically hold very senior appointments such
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:layout_marginTop="465dp"
+            android:layout_marginTop="415dp"
             android:text="Origins"
             android:textSize="20dp"
-
+            android:textColor="#4169e1"
             android:textStyle="bold" />
 
         <TextView
@@ -55,7 +56,7 @@ Officers in the rank of air marshal typically hold very senior appointments such
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Prior to the adoption of RAF-specific rank titles in 1919, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became air marshal would have been air vice-admiral. The Admiralty objected to any use of their rank titles, including this modified form, and so an alternative proposal was put forward: air-officer ranks would be based on the term ardian, which was derived from a combination of the Gaelic words for chief (ard) and bird (eun), with the term second ardian or wing ardian being used specifically for the rank equivalent to a vice-admiral and lieutenant-general. However, air marshal was preferred and was adopted on 1 August 1919. The rank of air marshal was first used on 11 August 1919 when Sir Hugh Trenchard was promoted to the rank and it has been used ever since."
-            android:layout_marginTop="495dp"
+            android:layout_marginTop="445dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             />

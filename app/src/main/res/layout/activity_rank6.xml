@@ -18,6 +18,7 @@
         android:layout_marginTop="10dp"
         android:gravity="center"
         android:text="Group Caption"
+        android:textColor="#4169e1"
         android:textSize="20dp"
 
         android:textStyle="bold" />
@@ -42,6 +43,7 @@ It has a NATO ranking code of OF-5, and is equivalent to a captain in the Royal 
         android:layout_marginRight="8dp"
         android:layout_marginTop="315dp"
         android:text="Origins"
+        android:textColor="#4169e1"
         android:textSize="20dp"
         android:textStyle="bold" />
 

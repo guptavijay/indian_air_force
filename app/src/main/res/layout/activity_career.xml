@@ -42,12 +42,12 @@
         android:layout_marginLeft="80dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="670dp"
-        android:background="#6495ed"
+
         android:gravity="center"
         android:text="OFFICERS"
-        android:textColor="#ffffff"
+        android:background="@drawable/btnshape"
 
-        android:textSize="20dp" />
+        android:textSize="13dp" />
 
     <Button
         android:id="@+id/b22"
@@ -56,12 +56,12 @@
         android:layout_marginLeft="80dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="730dp"
-        android:background="#6495ed"
+        android:background="@drawable/btnshape"
         android:gravity="center"
         android:text="MEDICAL OFFICERS"
-        android:textColor="#ffffff"
 
-        android:textSize="20dp" />
+
+        android:textSize="13dp" />
 
     <Button
         android:id="@+id/b33"
@@ -70,11 +70,12 @@
         android:layout_marginLeft="80dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="790dp"
-        android:background="#6495ed"
+        android:background="@drawable/btnshape"
         android:gravity="center"
         android:text="AIRMEN"
-        android:textColor="#ffffff"
+        android:textSize="13dp"
+        android:layout_marginBottom="10dp"
 
-        android:textSize="20dp" />
+         />
 </RelativeLayout>
 </ScrollView>

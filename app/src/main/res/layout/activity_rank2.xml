@@ -19,6 +19,7 @@
         android:gravity="center"
         android:text="Air Chief Marshal"
         android:textSize="20dp"
+        android:textColor="#4169e1"
 
         android:textStyle="bold" />
 
@@ -40,10 +41,11 @@ The rank of air chief marshal is immediately senior to the rank of air marshal b
         android:id="@+id/t33"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Origin"
-        android:layout_marginTop="380dp"
+        android:text="Origins"
+        android:layout_marginTop="350dp"
         android:layout_marginLeft="8dp"
         android:textSize="20dp"
+        android:textColor="#4169e1"
         android:textStyle="bold"
         android:layout_marginRight="8dp"
         />
@@ -55,7 +57,7 @@ The rank of air chief marshal is immediately senior to the rank of air marshal b
         android:text="Prior to the adoption of RAF-specific rank titles in 1919, it was suggested that the RAF might use the Royal Navy's officer ranks, with the word air inserted before the naval rank title. For example, the rank that later became air chief marshal would have been air admiral. The Admiralty objected to any use of their rank titles, including this modified form, and so an alternative proposal was put forward: air-officer ranks would be based on the term ardian, which was derived from a combination of the Gaelic words for chief (ard) and bird (eun), with the unmodified word ardian being used specifically for the equivalent to full admiral and general. However, air chief marshal was preferred and was adopted on 1 August 1919. The rank was first used on 1 April 1922 with the promotion of Sir Hugh Trenchard.[5] With Trenchard's promotion to marshal of the RAF on 1 January 1927, no officer held the rank until Sir John Salmond was promoted on 1 January 1929. It has been used continuously ever since."
         android:layout_marginRight="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="410dp"
+        android:layout_marginTop="380dp"
         android:layout_marginBottom="10dp"
         />
 

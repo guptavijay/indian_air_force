@@ -21,6 +21,7 @@
             android:textSize="20dp"
             android:textStyle="bold"
             android:gravity="center"
+            android:textColor="#4169e1"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
@@ -45,7 +46,8 @@ No air force in an English-speaking country formally uses the exact title marsha
             android:text="Seniority"
             android:textStyle="bold"
             android:textSize="20dp"
-            android:layout_marginTop="230dp"
+            android:textColor="#4169e1"
+            android:layout_marginTop="215dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
 
@@ -58,7 +60,7 @@ No air force in an English-speaking country formally uses the exact title marsha
             android:layout_marginBottom="10dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
-            android:layout_marginTop="260dp"
+            android:layout_marginTop="245dp"
 
             android:text="Marshals of the air force can be properly considered marshals and such ranks are equivalent to the army rank of field marshal and the navy rank of admiral of the fleet. Marshal of the air force is a five-star rank and in NATO countries it is described by the ranking code of OF-10. As such a senior rank, it is very seldom held. It is awarded either in a ceremonial capacity to heads of state or members of royal families, or to the most senior officers in large air forces." />
     </RelativeLayout>

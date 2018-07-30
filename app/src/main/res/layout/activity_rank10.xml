@@ -17,6 +17,7 @@
         android:layout_marginLeft="8dp"
         android:textStyle="bold"
         android:textSize="20dp"
+        android:textColor="#4169e1"
         android:text="Flying Officer"
         android:gravity="center"
 
@@ -38,11 +39,12 @@ The equivalent rank in the Women's Auxiliary Air Force was section officer."
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="330dp"
+        android:layout_marginTop="300dp"
         android:layout_marginRight="8dp"
         android:layout_marginLeft="8dp"
         android:textSize="20dp"
         android:textStyle="bold"
+        android:textColor="#4169e1"
         android:text="Usage in the RAF"
 
         />
@@ -52,7 +54,7 @@ The equivalent rank in the Women's Auxiliary Air Force was section officer."
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="10dp"
-        android:layout_marginTop="360dp"
+        android:layout_marginTop="330dp"
         android:text="The rank title does not imply that an officer in the rank of flying officer flies an aircraft. Some flying officers are aircrew, but many are ground branch officers. Amongst the ground branches some flying officers have command of flights.
 
 In the RAF, aircrew and engineer officers are commissioned directly into the rank of flying officer, while ground branches are commissioned as pilot officers for an initial period of six months. Time served in the rank of flying officer varies depending on branch before automatic promotion to flight lieutenant; aircrew and BEng qualified officers will serve for a period of 2½ years, MEng qualified engineers for 1½ years, and all other ground branches for 3½ years. A graduate entrant who has an MEng but is joining a ground branch other than engineer will serve 3½ years as a flying officer – the early promotion for MEng engineers is designed as a recruitment incentive. The starting salary for a flying officer is £30,616.80 per year.

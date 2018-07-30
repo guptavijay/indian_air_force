@@ -18,7 +18,7 @@
         android:layout_marginTop="10dp"
         android:text="Air Vice Marshal"
         android:textSize="20dp"
-
+        android:textColor="#4169e1"
         android:textStyle="bold" />
 
     <TextView
@@ -40,8 +40,9 @@ The rank of air vice-marshal is immediately senior to the rank air commodore and
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:layout_marginTop="360dp"
+        android:layout_marginTop="340dp"
         android:text="Origins"
+        android:textColor="#4169e1"
         android:textSize="20dp"
 
         android:textStyle="bold" />
@@ -54,7 +55,7 @@ The rank of air vice-marshal is immediately senior to the rank air commodore and
         android:layout_marginRight="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginBottom="10dp"
-        android:layout_marginTop="390dp"
+        android:layout_marginTop="370dp"
         />
 </RelativeLayout>
 </ScrollView>

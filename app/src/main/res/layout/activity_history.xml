@@ -91,6 +91,36 @@
 
             />
 
+        <ImageView
+            android:id="@+id/iv10"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="385dp"
+            android:src="@drawable/mi26" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="left"
+            android:text="MI- 26"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:textSize="15dp"
+            android:textColor="#4169e1"
+            android:layout_marginTop="45dp"
+
+            />
+        <TextView
+            android:id="@+id/tv14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+
+             />
+
 
     </RelativeLayout>
 </ScrollView>

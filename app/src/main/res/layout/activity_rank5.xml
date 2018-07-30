@@ -19,7 +19,7 @@
         android:gravity="center"
         android:text="Air Commodore"
         android:textSize="20dp"
-
+        android:textColor="#4169e1"
         android:textStyle="bold" />
 
     <TextView
@@ -39,10 +39,10 @@ Air commodore is a one-star rank and the most junior air officer rank, being imm
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:layout_marginTop="410dp"
+        android:layout_marginTop="430dp"
         android:text="Royal Air Force use and history"
         android:textSize="20dp"
-
+        android:textColor="#4169e1"
         android:textStyle="bold" />
 
     <TextView
@@ -52,7 +52,7 @@ Air commodore is a one-star rank and the most junior air officer rank, being imm
         android:text="In the present-day RAF, air commodores typically hold senior appointments within groups, acting directly in support of the air officer commanding. However, during the inter-war period, and in the case of the contemporary No. 83 Expeditionary Air Group, the air officer commanding held or holds air commodore rank. In the Air Training Corps, an appointed air commodore holds ultimate authority over the cadet organisation as the Commandant Air Cadets."
         android:layout_marginRight="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginTop="440dp"
+        android:layout_marginTop="460dp"
         android:layout_marginBottom="10dp"
 
         />
