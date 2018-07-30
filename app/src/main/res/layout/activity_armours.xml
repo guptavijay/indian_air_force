@@ -73,7 +73,9 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_marginTop="860dp"
-            android:src="@drawable/su30" />
+            android:background="@drawable/su30"
+            android:src="@drawable/border"
+            />
 
         <TextView
             android:layout_width="match_parent"

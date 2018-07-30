@@ -34,7 +34,8 @@
         <activity android:name=".rank8" />
         <activity android:name=".rank9" />
         <activity android:name=".rank10" />
-        <activity android:name=".martyrs"></activity>
+        <activity android:name=".martyrs" />
+        <activity android:name=".technical_advance"></activity>
     </application>
 
 </manifest>

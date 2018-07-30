@@ -13,31 +13,6 @@
         android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/t11"
-            android:layout_width="match_parent"
-            android:layout_height="40dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginTop="10dp"
-            android:background="#e6e6fa"
-            android:gravity="center"
-            android:text="SERVICES BY INDIAN AIR FORCE"
-            android:textColor="#8b7765"
-
-            android:textSize="20dp" />
-
-        <TextView
-            android:id="@+id/t22"
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:layout_marginLeft="8dp"
-            android:layout_marginRight="8dp"
-            android:layout_marginTop="65dp"
-            android:text="ENDORSEMENT OF NOK PENSIONERS"
-            android:textColor="#0000bf"
-            android:textSize="20dp" />
-
-        <TextView
             android:id="@+id/t33"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -45,5 +20,14 @@
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:layout_marginTop="105dp" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="150dp"
+            android:background="@drawable/mi26"
+            android:src="@drawable/border"
+
+            />
     </RelativeLayout>
 </ScrollView>
